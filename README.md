@@ -1,4 +1,4 @@
-# IC-Celular-Automata
+# IC Celular Automata
 Repository for scientific iniciation (IC) project by USP.
 
 "Implementation of a Traffic Simulator Model using Celular Automata"
