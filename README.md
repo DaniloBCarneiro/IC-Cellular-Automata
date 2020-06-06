@@ -2,6 +2,7 @@
 Repository for scientific iniciation project in the Department of Transportation Engineering (STT) - EESC-USP.
 
 Project name: "Implementation of a Traffic Simulator Model using Celular Automata"
+
 Original title: "Implementação de um modelo de simulação de tráfego rodoviário usando Cellular Automata"
 
 Abstract:
