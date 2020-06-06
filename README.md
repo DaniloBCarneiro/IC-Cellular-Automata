@@ -1,7 +1,7 @@
-# "Implementation of a Traffic Simulator Model using Celular Automata"
-Repository for scientific iniciation project in the Department of Transportation Engineering (STT) - EESC-USP.
+# "Implementation of a Traffic Simulation Model using Celular Automata"
+Repository for scientific iniciation project in the Department of Transportation Engineering - EESC-USP.
 
-Project name: "Implementation of a Traffic Simulator Model using Celular Automata"
+Project name: "Implementation of a Traffic Simulation Model using Celular Automata"
 
 Original title: "Implementação de um modelo de simulação de tráfego rodoviário usando Cellular Automata"
 
